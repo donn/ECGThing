@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommandLineKit",
+        "repositoryURL": "https://github.com/pvieito/CommandLineKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "d0f1827b62390949bf92a86d83805cf5bd5a8ddc",
+          "version": null
+        }
+      },
+      {
+        "package": "LoggerKit",
+        "repositoryURL": "https://github.com/pvieito/LoggerKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "da6d79cdb6f1d62658c28e83399116677160f89d",
+          "version": null
+        }
+      },
+      {
+        "package": "PythonTool",
+        "repositoryURL": "https://github.com/pvieito/PythonKit",
+        "state": {
+          "branch": "master",
+          "revision": "7f144bd4add4aac09adf0eded20879bebdd8f33f",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftSerial",
+        "repositoryURL": "https://github.com/yeokm1/SwiftSerial.git",
+        "state": {
+          "branch": "master",
+          "revision": "86625ee4148f9da55883ac57402742c2c919bfb1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
